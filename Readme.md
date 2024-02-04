@@ -1,4 +1,4 @@
-<h2>Hey there, I'm Aman </h2>
+<h2>Hey there, I'm Rene </h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amand33p&label=Profile%20views&color=0e75b6&style=flat" alt="amand33p" /> </p>
 
