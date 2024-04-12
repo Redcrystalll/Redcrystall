@@ -33,11 +33,6 @@ https://github.com/redcrystalll/redcrystalll/blob/main/Readme.md
 <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/linux-E79A00?style=for-the-badge&logo=linux&logoColor=black" alt="linux" /> </a>
 </p>
 
-<h3>Where To Find Me:</h3>
-<p>
-<p><a href="https://www.linkedin.com/in/rene-bustamante-ab98422b1/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
 <h3>My Projects:</h3>
 <p>
 Check the pinned repositories below. 👇
