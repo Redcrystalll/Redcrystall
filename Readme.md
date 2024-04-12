@@ -1,7 +1,7 @@
-<h2>Hey there, I'm Rene </h2>
+<h2>Hey there </h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amand33p&label=Profile%20views&color=0e75b6&style=flat" alt="amand33p" /> </p>
-
+https://github.com/redcrystalll/redcrystalll/blob/main/Readme.md
 <h3 align="left">Languages & Tools:</h3>
 
 <p align="left">
